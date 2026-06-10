@@ -1,4 +1,4 @@
-# 
+# Automático Mastra extensões. Com execução de código e computação de borda — otimizado para máximo desempenho e eficiência.
 
 
 
